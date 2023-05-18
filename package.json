@@ -1,0 +1,11 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Serve static files from a docker volume",
+  "main": "index.js",
+  "author": "Jonas Bjørge Andersen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
