@@ -6,6 +6,6 @@
   "author": "Jonas Bjørge Andersen",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^5.1.0"
   }
 }
